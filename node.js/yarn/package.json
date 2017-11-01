@@ -1,0 +1,13 @@
+{
+  "name": "trest",
+  "version": "1.0.0",
+  "description": "fdsfds",
+  "main": "app.js",
+  "repository": "http://fdsffsf",
+  "author": "fds",
+  "license": "MIT",
+  "private": null,
+  "dependencies": {
+    "n": "^2.1.8"
+  }
+}
