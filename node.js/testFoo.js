@@ -5,6 +5,7 @@ console.log(myfoo.GetName());
 console.log(myfoo.GetAge());
 
 console.log("after modify private var");
+debugger
 myfoo.SetName("Bob")
 myfoo.SetAge(19)
 console.log(myfoo.GetName());
